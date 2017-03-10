@@ -6,7 +6,7 @@ Its written in Python3 and NLTK library has been used for the same.
 
 To run the program, open terminal and just type make. The makefile does the remaining work.
 
-The above have been thouroughly tested on UBUBTU.
+The above have been thouroughly tested on UBUNTU.
 
 Supporting Files 
 1.postive_words.yml : contains words expected to have positive impact.
