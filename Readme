@@ -1,0 +1,23 @@
+The program takes input a review from the user and computes
+1. Whether the review is positive or negative.
+2. What is the extent of positivity or negativity, that is a numerical value.
+
+Its written in Python3 and NLTK library has been used for the same. 
+
+To run the program, open terminal and just type make. The makefile does the remaining work.
+
+The above have been thouroughly tested on UBUBTU.
+
+Supporting Files 
+1.postive_words.yml : contains words expected to have positive impact.
+2.negative_words.yml : contains words expected to have negative impact.
+3.inverters.yml : words which invert meaning of words.
+4.incrementals.yml : words which increase positivity or negativity of word.
+5.decrementals.yml : words which decrease positivity or negativity of word.
+
+The analysis is for reviews on playstore of Social category.
+
+This analysis can be improved by making machine learn about good or bad reviews under human supervision.
+2 options can be added:
+1. Analyze review
+2. Train the System.
